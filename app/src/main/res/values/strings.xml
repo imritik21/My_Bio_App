@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bio</string>
+    <string name="name">Ritik Shankar</string>
+    <string name="my_bio">Hello, I\'m Ritik Shankar, a 2nd-year Computer Science
+Engineering student at KIIT University.
+        \n\nI am passionate
+about problem-solving and have a keen interest in <u><i>Android development</i></u> .
+        Eager to apply my skills and contribute to
+innovative projects in the tech industry.I am always learning and improving,
+        and I am excited to see what I can accomplish in the future. Please feel free to ask me
+        any questions you have or give me any feedback on how I can be more helpful.
+    If you are learning a new language, I can help you practice conversation and translation.
+    If you are learning a new language, I can help you practice conversation and translation.
+    If you are learning a new language, I can help you practice conversation and translation.</string>
+    <string name="hobby_hint_text">Enter Your Hobbies</string>
+    <string name="done_text">Done</string>
+    <string name="image_description">user_image</string>
+</resources>
